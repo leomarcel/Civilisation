@@ -1,0 +1,9 @@
+ALGO
+
++ Vérification autorisation écriture dans un chan et modification de message
++ ping -> message random dans un chan spécifique
++ Le random se transforme en message qui donne le jour, le mois, l'année, l'heure, etc 04/04/2019 22h19 dans un embed
++ Le message se modifie tout seul sur lui même sans limite
++ Le message se modifie tout seul sur lui même '30' min plus tard en fonction de la variable heure et minutes. (surmodification)
+- Le message ne s'envoie pas s'il est situé dans une tranche d'horraire (23h à 7h)
++ Le message s'envoie tout seul, dans un chan spécifié, plus besoin d'appel ou de commande.
